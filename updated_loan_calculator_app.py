@@ -1,5 +1,4 @@
 
-
 import streamlit as st
 
 # Set Page Configuration for a Compact UI
